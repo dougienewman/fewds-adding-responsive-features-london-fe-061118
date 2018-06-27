@@ -1,7 +1,13 @@
 
 body, html{
+  @media only {
+  break-after: 1108px;
+  
+}
+  
+  
+}
 
 
 
 
-@media only
