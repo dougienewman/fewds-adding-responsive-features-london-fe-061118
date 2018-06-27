@@ -1,19 +1,17 @@
 
 @media only screen and (max-width:1108px) {
-  .wrapper (class): 90%;
+ .wrapper {
+    width: 90%;
+
+}
+
+#social {
+  position: absolute;
+  width: auto;  
   
 }
 
-
-body, html{
-  @media only {
-  break-after: 1108px;
-  
-}
-  
-  
 }
 
 
-
-
+}
